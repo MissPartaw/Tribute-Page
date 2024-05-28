@@ -35,3 +35,9 @@ body {
     margin: 0 auto;
     border-radius: 8px;
 }
+
+#img-caption {
+    font-size: 1em;
+    margin-top: 10px;
+    color: #555;
+}
