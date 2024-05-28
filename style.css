@@ -23,3 +23,15 @@ body {
     font-size: 2em;
     margin-bottom: 20px;
 }
+
+#img-div {
+    margin-bottom: 20px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
