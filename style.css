@@ -1,7 +1,7 @@
 @import url("**/*.{css,scss}");
 
 body {
-  font-family: Arial, sans-serif;  
+  font-family: "my_original_font_family_name", sans-serif;
   margin: 0;
   padding: 50px;
   display: flex;
