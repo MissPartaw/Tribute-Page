@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+
 body {
   font-family: Arial, sans-serif;  
   margin: 0;
@@ -62,4 +64,5 @@ body {
 
 .tribute-link:hover {
   text-decoration: underline;
+}
 }
