@@ -1,4 +1,4 @@
-@import url("style.css");
+@import url("**/*.{css,scss}");
 
 body {
   font-family: "my_original_font_family_name", sans-serif;
