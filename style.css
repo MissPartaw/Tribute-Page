@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Sofia");
+@import url("**/*.{css,scss}");
 
 body {
   font-family: Arial, sans-serif;  
@@ -64,5 +64,4 @@ body {
 
 .tribute-link:hover {
   text-decoration: underline;
-}
 }
